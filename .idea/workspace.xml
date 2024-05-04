@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d321089c-75d2-478e-9197-648f929d958a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/fibonacci/dynamic_programming/FibonacciDynamically.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/fibonacci/iteration/FibonacciIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/goit/lecture/fibonacci/recursion/FibonacciRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/goit/lecture/fibonacci/dynamic_programming/FibonacciDynamicallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/goit/lecture/fibonacci/iteration/FibonacciIterativeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/goit/lecture/fibonacci/recursion/FibonacciRecursiveTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2g0S4bYPBLpWUrxlbDZmBk3Zpg0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.App" />
+      <module name="GoIT2_HW_5_Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciDynamicallyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GoIT2_HW_5_Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.fibonacci.dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="goit.lecture.fibonacci.dynamic_programming" />
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.fibonacci.dynamic_programming.FibonacciDynamicallyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciIterativeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GoIT2_HW_5_Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.fibonacci.iteration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="goit.lecture.fibonacci.iteration" />
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.fibonacci.iteration.FibonacciIterativeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRecursiveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GoIT2_HW_5_Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.fibonacci.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="goit.lecture.fibonacci.recursion" />
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.fibonacci.recursion.FibonacciRecursiveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciRecursiveTest.calculateShouldReturnCorrectFibonacciNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GoIT2_HW_5_Fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goit.lecture.fibonacci.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="goit.lecture.fibonacci.recursion" />
+      <option name="MAIN_CLASS_NAME" value="goit.lecture.fibonacci.recursion.FibonacciRecursiveTest" />
+      <option name="METHOD_NAME" value="calculateShouldReturnCorrectFibonacciNumber(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.FibonacciRecursiveTest" />
+        <item itemvalue="JUnit.FibonacciDynamicallyTest" />
+        <item itemvalue="JUnit.FibonacciIterativeTest" />
+        <item itemvalue="JUnit.FibonacciRecursiveTest.calculateShouldReturnCorrectFibonacciNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d321089c-75d2-478e-9197-648f929d958a" name="Changes" comment="" />
+      <created>1714832813731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714832813731</updated>
+    </task>
+    <servers />
+  </component>
+</project>
